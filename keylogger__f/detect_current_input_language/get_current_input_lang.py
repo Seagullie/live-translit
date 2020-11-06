@@ -18,4 +18,4 @@ def get_input_lang():
 
     return langs[kb_lang_id__hex] if kb_lang_id__hex in langs else kb_lang_id__hex
 
-#get_input_lang()
+
