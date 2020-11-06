@@ -61,6 +61,7 @@ The transliterator replaces your input with Ukrainian letters. <br/>
 _TODO:_
 * Add support for multiple languages
 * Make a simple GUI for the script
+* Make dependencies.txt
 
 #### Inspired by _Google Input Tools_ and _Google Input Tools Chrome extension_ ❤
 
