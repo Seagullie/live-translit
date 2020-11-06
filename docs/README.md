@@ -13,7 +13,7 @@ The transliterator replaces your input with Ukrainian letters. <br/>
   
 ## Replacement Table
 
-<p>Here's the replacement table used in script:</p>
+<p>Here's the replacement table used in the script:</p>
 
 ```
   ua = {
