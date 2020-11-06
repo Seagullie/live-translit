@@ -128,7 +128,7 @@ class LiveTransliterator: # shouldn't be used on it's own cause it references th
         self.overloader.set_handler(key = "Tab", handler = lambda: self.transliterate(EOF))
         
     def handle_alt_tab(self):
-        add_hotkey('Alt+Tab', lambda: self.key_logger.memory.clear, suppress = False) # the way to chain, i guess
+        add_hotkey('Alt+Tab', lambda: self.key_logger.memory.clear, suppress = False)
         
     
 class wordBasedTransliterator(LiveTransliterator):
