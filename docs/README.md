@@ -12,6 +12,7 @@ The transliterator replaces your input with Ukrainian letters. <br/>
   You can provide your own replacement table by editing <code>tables.py</code> in <code>live-translit/translit_func/translit_tables</code>.</p>
 ## Replacement Table
 <p>Here's the replacement table:</p>
+
 ```
   ua = {
         "sch": "щ",
@@ -50,7 +51,8 @@ The transliterator replaces your input with Ukrainian letters. <br/>
         "'": "ь",
         "''": "'"
     }
-   ```
+    
+```
   
 ---
 
