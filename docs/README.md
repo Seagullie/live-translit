@@ -11,7 +11,7 @@ Then this script will be of help to you.</p>
 The transliterator replaces your input with Ukrainian letters. <br/>
   You can provide your own replacement table by editing <code>tables.py</code> in <code>live-translit/translit_func/translit_tables</code>.</p>
   
-_Todo:_
+_TODO:_
 * Add support for multiple languages
 * Make a simple GUI for the script
 
