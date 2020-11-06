@@ -17,6 +17,6 @@ _TODO:_
 * Add support for multiple languages
 * Make a simple GUI for the script
 
-#### Inspired by Google Input Tools and Google Input Tools Chrome extension ❤
+#### Inspired by _Google Input Tools_ and _Google Input Tools Chrome extension_ ❤
 
 
