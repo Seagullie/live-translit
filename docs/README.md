@@ -5,7 +5,7 @@ A script that transliterates as you type. On character-by-character basis
 ### Description
 <p>Have no desire to learn several keyboard layouts? Your QWERTY WPM is quite good and you want to leverage it to the max?</p>
 Then this script will be of help to you.</p>
-<p>The easiest way to start is to download the live_translit folder in live-translit/dist/ and run the live_translit.exe.<br/>
+<p>The easiest way to start is to download the <code>live_translit</code> folder in live-translit/dist/ and run the live_translit.exe.<br/>
 Once booted up, the transliterator can be turned on or off by pressing Alt + T (it will be turned on by default).</p>
 <p>
 The transliterator replaces your input with Ukrainian letters. <br/>
