@@ -10,8 +10,10 @@ Then this script will be of help to you.</p>
 <p>
 The transliterator replaces your input with Ukrainian letters. <br/>
   You can provide your own replacement table by editing <code>tables.py</code> in <code>live-translit/translit_func/translit_tables</code>.</p>
+  
 ## Replacement Table
-<p>Here's the replacement table:</p>
+
+<p>Here's the replacement table used in script:</p>
 
 ```
   ua = {
