@@ -1,12 +1,9 @@
-from keyboard import on_press, is_pressed, is_modifier, wait
+from keyboard import on_press, is_pressed, wait
 
 from .detect_current_input_language.get_current_input_lang import get_input_lang
 
 modifiers = ['ctrl', 'alt', 'windows', 'shift']
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-
-def is_combo_pressed():
-    pass
 
 def is_modifier_pressed():
     for mod in modifiers:
