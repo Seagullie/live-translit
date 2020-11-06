@@ -1,4 +1,4 @@
-from keyboard import on_press, send, press, add_hotkey, on_press_key
+from keyboard import on_press, send, add_hotkey, on_press_key
 from keyboard import write as Write
 from playsound import playsound
 
